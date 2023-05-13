@@ -6,7 +6,7 @@ Verify concurrent behavior of real code using finite-space model checking.
 
 ```toml
 [dev-dependencies]
-superposition = { git = "ssh://git@github.com/eradb/superposition.git", branch = "main" }
+superposition = { git = "ssh://git@github.com/lightstep/superposition.git", branch = "main" }
 ```
 
 ## Why finite-space model checking of real code?
